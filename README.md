@@ -17,3 +17,21 @@ LetsGrowMore Virtual Internship Program (Web Developer 👨‍💻) (LGMVIP-Web)
 </p>
 
 ---
+
+## 🏁 Progress Tracking 📈
+
+### Beginner Level
+
+- [ ] To-do List App 📃
+- [ ] Web Application using ReactJS 📱
+
+### Intermediate Level
+
+- [ ] Registration Form 📝
+- [ ] Calculator 🧮
+
+### Advanced Level
+
+- [ ] Student Result Management System 📊
+
+---
