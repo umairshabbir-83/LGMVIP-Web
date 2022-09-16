@@ -27,7 +27,7 @@ LetsGrowMore Virtual Internship Program (Web Developer 👨‍💻) (LGMVIP-Web)
 
 ### Intermediate Level
 
-- [ ] Registration Form 📝
+- [x] [Registration Form 📝](https://jsfiddle.net/DoVeNoW/Lqkvp03e)
 - [ ] Calculator 🧮
 
 ### Advanced Level
