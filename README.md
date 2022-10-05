@@ -18,6 +18,14 @@ LetsGrowMore Virtual Internship Program (Web Developer 👨‍💻) (LGMVIP-Web)
 
 ---
 
+## Certificate of Completion
+
+<p align="center">
+        <a href="#"><img src="https://i.postimg.cc/tJLCY0Tb/LGMVIP-Web-Certificate-of-Completion.jpg" /></a>
+</p>
+
+---
+
 ## 🏁 Progress Tracking 📈
 
 ### Beginner Level
